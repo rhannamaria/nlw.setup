@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Habits app para ajudar a rastrear os habitos.
+O projeto Habits app é para ajudar a rastrear os habitos.
 
 
 ## 🔖 Layout
