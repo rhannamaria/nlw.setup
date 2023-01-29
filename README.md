@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Habits app é para ajudar a rastrear os habitos.
 
+- [Visite o projeto online](https://rhannamaria.github.io/nlw.setup/)
+
 
 ## 🔖 Layout
 
